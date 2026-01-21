@@ -1,0 +1,10 @@
+{
+  "allowedPorts": {
+    "description": "Hospital-standard ports",
+    "ports": [80, 443, 104, 2575, 161, 162, 53]
+  },
+  "suspiciousPorts": {
+    "description": "Ports to quarantine",
+    "ports": [4444, 31337, 12345, 3389, 6667, 445]
+  }
+}
