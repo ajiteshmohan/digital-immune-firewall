@@ -34,7 +34,7 @@ digital-immune-firewall/
 ### Frontend
 The frontend UI can be accessed via GitHub Pages:
 
-https://your-username.github.io/digital-immune-firewall/
+https://ajiteshmohan.github.io/digital-immune-firewall/
 
 ### Backend
 To run the backend locally:
@@ -52,3 +52,4 @@ Backend services such as packet capture cannot be deployed online.
 
 ## Author
 CODEPLAY Team — 2025
+
