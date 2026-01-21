@@ -19,6 +19,7 @@ digital-immune-firewall/
 ├── hospitalports.json
 ├── blacklist.json
 └── public/
-    └── demo.html
+    └── index.html
+
 
 
