@@ -1,14 +1,24 @@
-\# Digital Immune Firewall
+# Digital Immune Firewall
 
+A full-stack cybersecurity system inspired by biological immune systems.
 
+## Overview
+This project simulates a Digital Immune Firewall for hospital networks.
+It monitors network traffic, detects anomalies, and visualizes threats
+in real time using a web dashboard.
 
-A full-stack cybersecurity firewall system inspired by biological immune systems.
+## Tech Stack
+- Backend: Node.js, Express, WebSocket
+- Frontend: HTML, Tailwind CSS, JavaScript
+- Detection: Rule-based + anomaly detection
 
+## Folder Structure
 
-
-Backend: Node.js + packet inspection  
-
-Frontend: Live visualization dashboard
-
+digital-immune-firewall/
+├── server.js
+├── hospitalports.json
+├── blacklist.json
+└── public/
+    └── demo.html
 
 
